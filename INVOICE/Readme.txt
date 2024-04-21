@@ -1,0 +1,1 @@
+Drop Your Invoices inside that Folder, they will be recognized automatically,
